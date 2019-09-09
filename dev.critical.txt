@@ -1,0 +1,450 @@
+Development of Critical Thinking
+
+Abstract. The present paper gives the overview of the basic principles and
+strategies for development of students’ critical thinking and reflection. Ideas of
+contemporary teaching and methodology for development of critical thinking
+
+and reflection presented in the article are implemented in teacher training pro-
+grams at the Estonian Centre for Engineering Pedagogy, Tallinn University of
+
+Technology. Analysis of the qualitative research carried out among the students
+is introduced. Students evaluated strategies implemented in teaching with the
+aim of developing and supporting students’ critical thinking, reflection and
+metacognition.
+Keywords: Critical thinking  Active learning  Reflection  Methodology  Strategies  Metacognition
+1 Introduction
+Engineering has never mattered more. What engineers know, how they think and what
+they can do are critical resources in our society today.
+
+According to the statement of Partnership for 21st Century Learning [1], interna-
+tional education leaders have committed to fusing the 4C’s making up the learning and
+
+innovation skills in engineering education: Creativity and Innovation, Critical Thinking
+and Problem Solving, Communication, and Collaboration.
+For critical thinking and problem solving, the framework of Partnership for 21st
+Century Learning emphasizes the need to [1]:
+• Reason effectively, using various types of reasoning (inductive, deductive, etc.) as
+appropriate to the situation;
+• Use systems thinking, analyzing how parts of a whole interact with each other to
+produce overall outcomes in complex systems;
+• Make judgments and decisions, effectively analyzing and evaluating evidence,
+arguments, claims and beliefs; analyzing and evaluating major alternative points of
+view; synthesizing and making connections between information and arguments;
+interpreting information and drawing conclusions based on the best analysis;
+reflecting critically on learning experiences and processes;
+
+• Solve problems, solving different kinds of non-familiar problems in both conven-
+tional and innovative ways; identifying and asking significant questions that clarify
+
+The main purpose of engineering education is to provide the learning required by
+students to become successful engineers or knowledge workers – technical expertise,
+critical thinking, social awareness and knowledge of innovation. The combined set of
+knowledge, skills and attitudes is essential for strengthening productivity,
+entrepreneurship and excellence in an environment being based on technologically
+complex and sustainable products, processes and systems. Thus the goal of engineering
+education should be educating students who are ready to engineer, in the real world, not
+only in classrooms, making them deeply knowledgeable of technical fundamentals.
+These are important signposts, as the education world has long been averse
+to change—in many ways we are still preparing students for a world that no longer
+exists.
+Contemporary engineering students must be able to set goals for their learning and
+choose the most effective ways for achieving those goals, independently, with intrinsic
+motivation regulating their cognitive activities from goal setting up to evaluation of
+results, choosing criteria for evaluation and classification. The main aims of education
+today are mastering competencies and reaching expertise, developing intellectual skills,
+learning to learn, and thinking reflectively about thinking. Reflection helps teachers to
+reach the level of students, to choose suitable teaching strategies and methodology,
+construct knowledge and evaluate learning activities, thus reaching metacognition.
+The present paper gives the overview of the basic principles and methodology for
+development of critical thinking and reflection implemented in the teacher training
+programs at the Estonian Centre for Engineering Pedagogy, Tallinn University of
+Technology.
+2 Critical Thinking and Reflection—Basis of Constructivism
+According to Halpern [2] critical thinking is the use of those skills or strategies that
+increase the probability of a desirable outcome, it is used to describe thinking that is
+purposeful, reasoned, and goal directed. Halpern elaborates that “critical” part of
+critical thinking denotes an evaluation component [2]. When we think critically, we
+evaluate the outcomes for our thought processes—how good a decision is or how well
+a problem has to be solved [2]. Critical thinking is also called directed thinking as it
+focuses on a desired outcome [2]. Critical thinking also involves evaluation of the
+thinking process—the reasoning that went into the conclusion we’ve arrived at or the
+kinds of factors considered in making a final decision [3].
+Different definitions for critical thinking are used: sometimes it is called analytical
+thinking, logical thinking, higher level thinking, creative thinking etc. Greek word
+“kritike” means evaluate, analyze, review, judge, debate. Thus critical thinking should
+be analytical, creative, constructive and reflexive.
+
+Critical thinking is open, reflexive, evaluative higher level thinking helping stu-
+dents actively process new information and thus construct their own knowledge.
+
+Development of critical thinking skills will help students to acquire creative, self-
+evaluative and communication skills for building their own learning journey in lifelong
+
+learning. From pedagogical point of view, critical thinking is active, interactive, cre-
+ative and reflexive cognition.
+
+Critical thinking helps to find personal priorities, teaches the skills of individual
+responsibility, problem solving, self-control, openness to multiple ideas and solutions,
+communication, active listening, and helps to see connections.
+Teaching reflection may be divided into three stages:
+• Goal setting, creating learning environment and positive atmosphere;
+• Didactical methods for supporting reflection, workshops, active learning, portfolio,
+case studies, PBL, creative and critical thinking, debates;
+• Technological support, educational technology, innovation, communication,
+collaboration.
+Construction of knowledge is based on reflection. Self-regulation, self-orientation
+and self-evaluation as interior processes are also based on reflection, and development
+of these processes is always very individual. Reflexive learning could help students to
+practice reflection in the study process. When our students control their cognitive
+learning process and understand the function of a teacher, they develop their
+metacognitive skills by taking responsibility for their own learning, by understanding
+what they already know and what they need to learn; by setting goals for their learning
+process and finding the most suitable ways for reaching these goals; by carrying out the
+designed action plan, compiling their own learning materials; regulating their study
+process and evaluating it; by analyzing the results and comparing these to their goals;
+by setting plans for further development—thus they develop abilities of self-regulation,
+self-evaluation and self-motivation.
+3 Development of Reflection and Metacognition
+
+Technical teachers and engineering educators should act as examples and demonstra-
+tors of a thinking process in the process of cognition and learning.
+
+The reflection may be divided into primary reflection (reflection of a student) and
+secondary reflection (reflection of a teacher). Teacher should create conditions for
+development of student reflection, analyzing and understanding the development of
+students’ metacognitive skills, including their self-development.
+Criteria for determination of the level of students’ reflective thinking may be
+divided as follows:
+• Activity approach—according to the development of reflexive skills a cognitive
+experience is shaped for managing the cognitive learning process. The following
+metacognitive skills are needed on this level: evaluating one’s knowledge (what I
+know and what I need to learn), setting learning goals; designing the plan for
+reaching the goals; organizing the research activities; evaluation critically the
+results; analyzing individual activities in the learning process (success and failure,
+what I have gained and learned, what to do differently next time etc.);
+
+• Dialogue approach (generalized)—discussions, educational games, multiply pos-
+sibilities of group work and decision making, experience of teamwork; questioning
+
+techniques—asking and answering questions; valuing and taking account of
+Development of Critical Thinking and Reflection 897
+
+different viewpoints; determining common ideas, active listening, reaching con-
+sensus; acquiring skills of open discussions, respecting each other;
+
+• Individual approach—individual reflection, self-determination, finding the meaning
+of life, value appraisal, ethical norms; evaluation of intellectual possibilities and
+strengths; self-esteem, self-actualization, self-regulation.
+Reflection is a universal mechanism for self-development and self-changing as a
+part of students’ learning process and development.
+Metacognition is developed on the basis of reflection supporting following abilities
+of teachers and students:
+• Planning and designing the learning process, assignments and activities;
+• Analysis and self-analysis;
+• Evaluation and self-evaluation;
+• Selection of learning strategies.
+Though most teachers strive for making critical thinking one of the primary goal of
+their instruction, most of them do not realize that students must pass through the
+following 6 stages of development of learning critical thinking [4]: the Unreflective
+Thinker; the Challenged Thinker; the Beginning Thinker; the Practicing Thinker; the
+Advanced Thinker; the Accomplished Thinker. And of course students’ intellectual
+development is of essential importance.
+4 Development of Critical Thinking
+Didactical strategies for development of critical thinking have been designed based on
+the three main stages: evocation, realization and reflection, supported by activities of
+students during the learning process and multiply of different ideas.
+The Basic model for developing critical thinking and effective teaching (including
+planning and design) used at the Estonian Centre for Engineering Pedagogy is designed
+taking account of above listed didactical strategies, and consists of following phases:
+• Evocation and involvement—goal setting, evoking interest, motivation, refreshing
+
+prerequisite knowledge, creating associations of real world implementation, sys-
+tematization of knowledge, activating of students, demonstrations, videos etc.;
+
+• Learning and research—teaching and learning new information, rethinking and
+creating connections, design, research, practical lessons and labs, testing, multiple
+possible solutions, implementing active learning structures (including reading and
+writing for development of critical thinking, group work, writing keywords, active
+reading, questioning, etc.) supported by e-learning materials (depending on the
+content the flipped classroom may be used);
+• Analysis and explanation—analyzing the results, deep understanding, collaborative
+teamwork, discussions, organizing the material, graphical presentation of material,
+mind maps etc., questioning (using what if? questions), learning from mistakes,
+finding solutions, giving feedback, communication;
+
+
+• Development—modelling and building prototypes, testing, improvement, imple-
+mentation the results of previous phases in new real life situations, creation,
+
+building connections between STEM and real life situations;
+• Evaluation and reflection—processing, evaluation, analyzing, integrating, and
+reflecting, formulating goals for further independent learning, selection of learning
+strategies and methods for independent work, self-analysis, self-regulation, and
+analysis of acquisition of learning outcomes.
+The aim of these didactical strategies of the described Basic model is to develop
+
+students’ metacognitive skills and intellectual knowledge needed not only in the pro-
+cess of learning but also in everyday life; to teach students how to use specialty
+
+literature and knowledge information bases, find and implement new information, use it
+in real world situations, integrate it with the knowledge already acquired and analyzed,
+reproduce the knowledge and solve problems. It is important to know facts, concepts,
+theory—as all skills are based on acquired specialty knowledge, and competencies in
+turn are based on knowledge, skills and values (students have to know what, know
+how, and know why).
+The Basic model assists teachers to design a logical and effective teaching process
+and support the development of critical thinking skills within contemporary teaching
+and learning, using strategies for development of critical thinking and reflection as
+essential tools.
+5 Strategies for Development of Critical Thinking
+and Reflection
+Inherent in any inductive teaching method and active learning method is that students
+actually have to do something, but the central aim of active learning is to give students
+possibilities to explore new concepts, solve problems, and reflect on their experiences,
+in order to improve their performance in the iterative cycle [9]. Thus a learning activity
+
+is appropriate if it supports students’ analysis and reflective practice, the key compo-
+nent should be feedback and self-analysis.
+
+Strategies for development of critical thinking from the pedagogical point of view
+teach students the following skills:
+• Active reading skills, collection of information and analysis the quality of data;
+• Analysis of learning situation in general, seeing the “big picture”;
+• Identifying and defining of a problem, clarifying the cause and effect, drawing
+logical conclusions;
+• Designing individual opinion, finding alternatives and connections;
+• Self-analysis, self-evaluation, feedback, and reflection.
+Strategies for teaching critical thinking and reflection used at the ECEP are:
+• Collaborative group work—for learning with deep understanding students must
+critically analyze their own views, make presentations, participate in brainstorming,
+analyze other students’ views, work out the best solutions [3];
+
+Development of Critical Thinking and Reflection 899
+
+• Muddy cards [5]—finding the “muddiest” point of the lecture—students give
+
+feedback to analyze, increase learning retention and determine gaps in their com-
+prehension—students are asked to reflect what they have learned—they write down
+
+the most unclear points of the lecture. The instructor may correct misconceptions by
+the next class or use the cards in seminars;
+• Peer instruction—interactive teaching strategy promoted by Harvard Professor Eric
+Mazur [6, 7] it is a form of a flipped classroom and provides a structured way to
+guide student preparation, in-class active learning and rich feedback/analysis
+opportunities. The peer instruction cycle is implemented in following five steps:
+– A problem with multiple choice answers is displayed, students are given time to
+think over;
+– Students record their answers, using flash cards, rising hands, or electronic
+response system;
+– When there is a disagreement in the group, students are given a few minutes to
+convince their neighbors (peer instruction) of their choice. Students think
+individually and practice to express their views;
+– Students record their revised answers;
+– The instructor leads a discussion on ways of reasoning and arguing in relation to
+the problem.
+• Quizzes for reflection—may be used in the beginning of a lecture to help students to
+recapitulate a previous lecture. This method was developed at Chalmers University
+
+of Technology for enhancing student active reflection [8]. It is related to peer-
+instruction and uses six multiple-choice questions that students discuss with peers at
+
+the beginning of the lecture. The instructor concludes by explaining why each
+choice is correct or incorrect [9];
+• Visual diagrams—Mind map, Fishbone diagram, Venn’s diagram, etc. These
+methods help to develop students’ analytical and critical thinking abilities and
+reflection;
+
+• Student-led recitations (Ticking)—appropriate for using in teaching problem solv-
+ing, first used at Royal Institute of Technology (KTH) in Stockholm [9]. For weekly
+
+recitation sessions students are asked to work through a set of problems. At session
+students tick on the list which problems they are prepared to present, solve, explain,
+and lead the classroom discussion. Students need to tick for at least 75% of
+problems in order to past the course. Students spend time on task, are active, reflect
+on how to explain the methods and argue on problem-solving strategies;
+• Project-based learning—experiential learning method, solving real world problems
+or situations ending with some kind of a real result—documentation, drawings,
+video report, model, prototype, written report etc.;
+• Simulations—instructor’s role is to explain rules, the situation and the role of
+students, to monitor, to help students to reflect on the experience, to lead a
+debriefing session;
+• Case studies—giving real engineering experiences, case discussions develop
+independent thinking, decision-making skills, analytic and problem-solving skills
+through practice and reflection;
+900 T. Rüütmann
+
+• Journals and portfolios—perfect methods for self-evaluation, self-analysis, reflec-
+tion, develop critical thinking skills, reasoning skills, recording and analyzing the
+
+steps of an engineering design process;
+• Problem-based learning—different methods may be used, for example IDEAL
+method (I-Identify the problem, D-Define and represent the problem, E-Explore
+possible strategies or solutions, A-Act on a selected strategy or solution, L-Look
+back and evaluate) or CDIO method (Conceive—Design—Implement—Operate);
+• Compilation of test questions (Blooming questions)—students are asked to compile
+questions for a test/assignment/seminar based on the new material according to
+Bloom taxonomy levels (questions for the levels of remembering, understanding,
+implementation, analysis, evaluation and creation). Questions may be used for
+home assignments, tests, group works at seminars etc.;
+• INSERT method (Interactive Noting System Effective Reading and Thinking)—
+founded by Vogan and Estes [10] developing critical thinking ability in reading
+scientific texts. This method visualizes the process of knowledge accumulation from
+
+known information to the new one. Student can mark text or information as fol-
+lowing: “?”—already know, “+”—new information, “–“- had another idea, “?”—
+
+unclear, and needs to be clarified.
+All active learning strategies for developing of critical thinking and reflection
+
+presented above have been implemented at the Estonian Centre for Engineering Ped-
+agogy (ECEP) within the Basic model presented hereinbefore.
+
+7 Discussion and Further Developments
+According to Robert Ennis [11] Critical thinking is a reasonable and reflective thinking
+focused on deciding what to believe or do.
+Critical thinking assumes the understanding that everyone could make mistakes.
+Critical thinking assist in asking higher level questions (what if? why?), finding the
+pros and cons, in argumentation, self-evaluation, and self-critique.
+The basic elements of critical thinking are: identification of a topic or a problem,
+finding connections, collecting information and critical analysis, situation analysis,
+logical conclusions, cause and effect analysis, combination, integration, modelling and
+defending one’s views.
+
+Table 1. Students‘comments on used teaching strategies
+
+No Students’ comments
+1 Collaborative group work helped more easily to understand difficult concepts and the
+process of decision making
+2 I liked Muddy cards the most—sometimes it is not easy to ask questions in the large
+classroom, but when i wrote down the problems i did not understand, professor started
+with these problems on the next lecture and i understood everything
+3 Please use more Peer instruction, i worked with high responsibility, i like flipped
+classroom
+4 Quizzes for reflection was a good strategy, thus material passed in the last lecture was
+revised at the beginning of the next lecture and it helped to understand better and see
+connections
+5 Visual diagrams helped to realize and analyze the problem, it became more clearer, i
+liked Venn’s diagram the most, it was fun
+6 Ticking is the best—i received bonus for my comprehension and it was good to solve
+problems in teams, holding discussions and arguing, it was fun and motivating, but still
+a hard work
+7 Project-based learning has been used for a long time in engineering, but it still works,
+especially with real life tasks, i liked the video report presentations at the final seminar
+and the discussion
+8 I liked the case studies most, at first we tried to solve the case, and then professor
+showed us how the problem was solved in a real life situation
+9 At first i did not like the portfolio compilation, but afterwards i understood how it
+helped me to cope with self-analysis, reflection and metacognition—i started to think
+how to learn and work better in the future and learned from my mistakes
+10 Problem-based learning—the problems were so interesting that we worked together for
+several hours, professor helped as a professional mentor and engineer
+11 Using Blooming questions was motivating, especially because the professor used our
+questions at the tests and discussions
+12 I have never understood the text so well before—using INSERT helped with supporting
+deeper understanding
+13 I liked CDIO the best, it was like a real engineering process and we worked as a real
+team
+
+Development of Critical Thinking and Reflection
+
+For teaching and developing critical thinking abilities, the following principles
+outlined by Ennis [11] have been taken account of at the ECEP in teaching engineering:
+• Care that beliefs are true, and that decisions are justified; that is, care to “get it right”
+to the extent possible; including to [11]:
+– Seek alternative hypotheses, explanations, conclusions, plans, sources, etc.; and
+be open to them;
+– Consider seriously other points of view than their own;
+– Try to be well informed;
+– Endorse a position to the extent that, but only to the extent that, it is justified by
+the information that is available;
+– Use critical thinking abilities;
+• Care to understand and present a position honestly and clearly, theirs as well as
+others’ including to [11]:
+– Discover and listen to others’ view and reasons;
+– Be clear about the intended meaning of what is said, written, or otherwise
+communicated, seeking as much precision as the situation requires;
+– Determine, and maintain focus on, the conclusion or question;
+– Seek and offer reasons;
+– Take into account the total situation;
+– Be reflectively aware of their own basic beliefs;
+• Care about every person. Caring critical thinkers [11]:
+– Avoid intimidating or confusing others with their critical thinking prowess,
+taking into account others’ feelings and level of understanding;
+– Are concerned about others’ welfare.
+In order to learn how to think critically, students have to focus on a problem or a
+question, analyze arguments, ask multiple clarifying questions, judge the credibility of
+a source analyzing every step, asking questions (what if? why?), being prepared for
+argumentation, feedback and other opinions, paying attention to self-control and
+respect.
+How to help students to develop their critical thinking skills? The following set of
+recommended principles has been compiled for the teaching staff of the ECEP: the
+teaching material should be based on main concepts and generalizations; think about
+how to make students to think along; take account of students’ preliminary knowledge;
+ask higher level questions (Why you think so? What may be alternatives? What if?
+
+What conclusions could be made? Why?); visualize students’ argumentation; let stu-
+dents explain what they understood and what needs clarification; let them describe how
+
+the system and its elements function, are connected and influence each other; let them
+describe how they reached the solution; ask them to explain the concepts or problems
+in their own words; use peer instruction; analyze scientific articles; let them design a
+product according to given specification; ask them to check the solution and find
+mistakes; find multiple solutions; ask to integrate new details to a product; analyze the
+results of a research; analyze conclusions and find relevant data moving in reverse
+direction of a research; ask them to argue on superstitions related to your subject/topic;
+904 T. Rüütmann
+
+write the list of criteria according to which the quality of a product may be evaluated;
+think aloud and ask your students also to think aloud; use 1- sentence summary method
+at the end of a lesson; be consistent and patient—teaching and supporting critical
+thinking is a time consuming process and you will see the results step by step.
+The main strategies for teaching critical thinking are:
+• Affective strategies—developing of independent thinking—What do you think?
+How you reached this decision? What are the other opinions?
+• Cognitive strategies—processes related to knowledge and thinking—Why? What?
+What is the problem? What we have to solve?
+
+• Analytical strategies—analysis, higher level questioning, logical thinking and dis-
+cussions—What if? What will happen next? What may be the reason? What may be
+
+the consequences?
+According to Brent and Felder [12] in order to help the talented and motivated
+students become much better at creative and critical thinking than they were at the
+beginning of the course teachers should show them examples of the kind of thinking
+teachers have in mind themselves; ask students to complete tasks that require that kind
+of thinking in class and in assignments; give them feedback; and repeat.
+
+Thinking is an active process. Thus inductive teaching and active learning struc-
+tures may be used with the aim of teaching critical thinking. Critical thinking must
+
+always be reflective and evaluative. This is the reason why all active learning strategies
+will have to be concluded with conclusion, reflective analysis and self-evaluation.
+Reflection assists learning from experiences.
+Development and teaching of critical thinking is more effective in theoretical than
+in practical classes. It is recommended to develop critical thinking through a social
+experiences, collaborative learning and communication, using scaffolding, supporting
+and encouraging thinking.
+Further developments include the research of the instructors’ opinions on the
+
+implemented strategies but also providing support for continuing to incorporate ana-
+lyzed strategies in the teacher training courses. After the research at TTU the results
+
+will be analyzed and published informing about how these strategies could be imple-
+mented elsewhere or how they might otherwise be applied at other universities.
+
+8 Conclusions
+The aim of contemporary engineering education is to educate future engineers. They
+will have to solve future engineering problems. What to teach them so they could cope
+with their job in the future? It is a difficult question and we do not have the answers
+today—we know nothing about the future problems. We should teach our students how
+to solve today’s problems, how to think critically, find correct and relevant information,
+evaluate their decisions and to continue learning through their whole life. Critical
+thinking is the central pile of the development and success.
+
+Development of Critical Thinking and Reflection
+
+The key person in teaching critical thinking is a teacher who should plan assign-
+ments that make students think critically, taking account of strategies of critical
+
+thinking and students’ preliminary knowledge. Let them learn from their own mistakes,
+let them analyze these mistakes, and let them find a better way.

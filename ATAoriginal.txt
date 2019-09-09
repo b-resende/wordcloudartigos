@@ -1,0 +1,789 @@
+O início do século XXI é descrito, sob diversas terminologias, como Era da Informação, Era
+Digital ou Sociedade do Conhecimento. Talvez estávamos ou estamos em um ponto da
+história em que os avanços tecnológicos, bem como as tendências econômica, demográfica e
+pedagógica, convergem e se reforçam mutuamente para criar um impulso que resulte em
+mudanças aceleradas nos próximos anos.
+Nesse contexto, a necessidade de mudanças nas práticas pedagógicas está cada vez mais
+emergente. Se estas práticas não são renovadas, os métodos, processos e conteúdos
+educacionais que conhecemos (e admiramos) se tornarão irrelevantes porque deixarão de
+atender a demanda do seu contexto. Acredita-se que a manutenção de práticas consideradas
+obsoletas têm contribuído para um ensino centrado no professor, na qual tem distanciado os
+alunos do processo de construção de seu conhecimento. Dados interessantes divulgados pela
+pesquisa sobre mensuração de inovação na educação (OCDE, 2014), após pesquisar 34 países
+num intervalo entre 2000 a 2011, revelam que os professores têm inovado bastante em suas
+práticas pedagógicas. Contudo, no relatório mais recente (OCDE, 2017), destaca que o Brasil
+tem jovens professores que enfrentam condições de trabalho menos favoráveis, salários
+baixos, turmas maiores e podem ter menos oportunidades de realizar outras atividades. É
+observado também que a falta de qualificação dos professores (muitos destes “apegados”
+exclusivamente aos denominados métodos tradicionais de ensino) tem dificultado sua adoção
+em relação ao uso de diferentes metodologias de ensino.
+Indubitavelmente a formação do professor (mediador, facilitador, formador) influencia em
+como este exerce sua prática pedagógica. O professor deve assumir uma atitude flexível ante
+as estratégias didáticas e de avaliação tanto no momento de organização e planejamento,
+como no processo de desenvolvimento, em virtude da imprevisibilidade e incerteza, e na
+tomada de decisão que há de ter em sua prática. Tradicionalmente, as salas de aula foram
+projetadas para satisfazer às necessidades dos professores (sua disposição, formato, estrutura,
+organização etc.). É preciso repensar a sala de aula. Observa-se que há algo essencialmente
+errado na escola como ela existe hoje. À medida que o tempo passa, nossos alunos, que
+deveriam estar cada vez mais envolvidos no processo de aprendizado, estão cada vez mais
+distantes. É preciso centrar a aprendizagem no aluno. Por décadas a educação era centrada no
+que o professor transmitia para o aluno. Depois, passamos por um período de descoberta das
+tecnologias na educação.
+Destarte, tornou-se então um desafio para professores e alunos, assim como para escolas,
+instituições de ensino superior e empresas adaptarem-se à complexidade dessas mudanças.
+Um novo perfil tem sido observado nas escolas e universidades no Brasil em que o professor
+deixa de ser o “transmissor do saber” e passa a ser o facilitador e mediador do conhecimento
+e os alunos deixam de ser receptores passivos de informações e atuam como colaboradores e
+participantes na construção coletiva do conhecimento. É nesse contexto que as tecnologias e
+as metodologias ativas têm crescido e se destacado no processo da construção do
+conhecimento. Em termos de produção na forma de artigos, o aumento (ainda) não é
+significativo em algumas áreas, por exemplo no Ensino de Química, com presenças esparsas
+em algumas revistas. Em outras áreas, como a pedagogia, a produção de artigos é muito mais
+pronunciada.
+Considerando o elevado número de trabalhos na área de tecnologias e o aumento relevante
+das publicações envolvendo as metodologias ativas, o objetivo deste estudo é apresentar e
+explorar o modelo da Aprendizagem Tecnológica Ativa, destacando algumas aplicações no
+Ensino da Química. Para conseguir isso, primeiro elucidamos sobre as tecnologias na
+educação, tomando como referência pesquisas recentes. Em seguida, apresentamos e
+discutimos os referenciais teóricos envolvendo as metodologias ativas, que relacionadas com
+as tecnologias digitais da informação e comunicação postulam o modelo da Aprendizagem
+Tecnológica Ativa. Finalizamos com a apresentação de alguns resultados de pesquisas que
+apresentam características do modelo da Aprendizagem Tecnológica Ativa no Ensino de
+Química, no intuito de fornecer subsídios aos professores e estudantes (futuros professores)
+que buscam inovar em sua prática pedagógica.
+
+TECNOLOGIAS NA EDUCAÇÃO
+A adoção das Tecnologias Digitais de Informação e Comunicação (TDIC) no processo de
+ensino e aprendizagem no ensino básico e superior, por vezes, tem sido contraditório entre os
+docentes. Muitos professores, ao reconhecerem seu valor no processo de construção do
+conhecimento experimentam dificuldades na incorporação de sua prática pedagógica. No
+cenário atual, o uso de tecnologias digitais é um componente central da maior parte das
+formas de ofertas e práticas educacionais contemporâneas (SELWYN, 2017). A tecnologia
+digital tem tido claramente um impacto em muitas áreas da sociedade, sendo muito comum o
+emprego das TDIC voltadas para as práticas pedagógicas. Seu uso promove o aprendizado,
+facilita a interação e estimula os alunos a uma aprendizagem significativa.
+As tecnologias digitais (móveis, conectadas, leves e ubíquas) não são apenas um recurso para
+o ensino, são também eixos estruturantes de uma aprendizagem criativa, crítica, personalizada
+e compartilhada. Elas trazem inúmeros problemas, desafios, distorções e dependências que
+devem ser parte do processo de ensino e aprendizagem. Em relação aos problemas, é nocivo
+ignorar uma educação avessa a um mundo conectado.
+O relatório de um estudo do Campus technology de 2017, realizado com 232 professores de
+diversas faculdades nos Estados Unidos, destaca o uso das tecnologias no ensino por esses
+docentes. O estudo apresenta uma visão geral do uso das tecnologias na educação, sendo
+considerado por 80% dos entrevistados como positivo (KELLY, 2017). Além disso, apresenta
+uma perspectiva das tecnologias que irão desaparecer e as que serão importantes na próxima
+década
+Muitas dessas tecnologias propostas para a próxima década já são conhecidas pelos
+pesquisadores no Brasil, porém poucas têm sido utilizadas nas práticas docentes,
+principalmente no Ensino de Química. Tal fato corrobora com a pesquisa recente de Reis,
+Leite e Leão (2017) sobre a apropriação das tecnologias da informação e comunicação (TIC)
+no ensino de ciências (Ensino de Química). Os autores realizaram uma revisão sistemática no
+período de 2007 a 2016 constando que poucos trabalhos foram desenvolvidos com interesse
+nas estratégias de uso das TIC. A maioria dos trabalhos publicados estavam focados no
+interesse pela funcionalidade das TIC e no interesse no uso das TIC, ou seja, as produções
+estavam empenhadas mais na utilização de algum material suportado pelas TIC, sem a
+preocupação de quem (o professor) irá utilizar ou como será essa utilização (qual estratégia).
+Nesse contexto, é mister mais pesquisas sobre estratégias de uso das TIC em sala de aula,
+investigando como elas desempenham papel importante na construção de conhecimento.
+METODOLOGIAS ATIVAS
+Partindo do pressuposto que as metodologias ativas não são novidades, elas têm se destacado
+refletindo sobre o papel do professor e do aluno no processo de ensino e aprendizagem,
+buscando provocar mudanças nas práticas em sala de aula que estão, por muitas vezes,
+enraizadas no modelo tradicional de ensino. A educação tradicional envolve a disseminação
+de informações diretamente do professor para o aluno. Este ambiente de aprendizagem
+passivo não é propício para a multiplicidade de estilos de aprendizagem (COOREY, 2016).
+Dewey (1950) já destacava a importância do aluno ativo na construção de seu conhecimento e
+da necessidade em superar a tradicional aula expositiva, cuja finalidade é a reprodução e a
+memorização do conteúdo de ensino. Esse protagonismo do aluno é também descrito nos
+Parâmetros Curriculares Nacionais (PCN) e corrobora para a consolidação dos quatro pilares
+essenciais da educação: o aprender a aprender, o aprender a fazer, o aprender a viver e a
+conviver e o aprender a ser (BRASIL, 2002).
+A palavra Metodologia tem registro na língua portuguesa desde 1858. Etimologicamente a
+metodologia advém do grego, a partir dos termos: metá (atrás, em seguida, através); hodós
+(caminho); e logos (ciência, arte, exposição cabal, tratamento sistemático de um tema)
+(HOUSSAIS, 2001). Metodologia pode ser compreendida como tratado, disposição ou
+ordenamento sobre o caminho através do qual se busca, por exemplo, um dado objetivo de
+ensino ou mesmo uma finalidade educativa (ARAÚJO, 2015). Já a Aprendizagem Ativa, em
+oposição à aprendizagem passiva, bancária, baseada na transmissão de informação, o aluno
+assume uma postura mais ativa, na qual ele resolve problemas, desenvolve projetos e, com
+isto, cria oportunidades para a construção de conhecimento. Segundo Barbosa e Moura (2013,
+p. 55) a “aprendizagem ativa ocorre quando o aluno interage com o assunto em estudo
+(ouvindo, falando, perguntando, discutindo, fazendo e ensinando) sendo estimulado a
+construir o conhecimento ao invés de recebê-lo de forma passiva do professor”. Em um
+ambiente de aprendizagem ativa, o professor atua como orientador, supervisor, facilitador do
+processo de aprendizagem, e não apenas como fonte única de informação e conhecimento.
+Dessa maneira, o aprendiz precisa ser um participante ativo para que ocorra a aprendizagem.
+É importante destacar que as terminologias metodologia ou aprendizagem ativa variam
+dependendo de qual literatura tomamos como referência. Em muitos casos o termo
+metodologia ativa tem sido mais utilizado para referir-se a “estratégias pedagógicas que
+colocam o foco do processo de ensino e aprendizagem no aprendiz, contrastando com a
+abordagem pedagógica do ensino tradicional, centrada no professor, que transmite
+informação aos alunos” (VALENTE; ALMEIDA; GERALDINI, 2017, p. 463). Já o termo
+aprendizagem ativa é utilizado para “para caracterizar situações de aprendizagem em que o
+aluno é ativo” (VALENTE; ALMEIDA; GERALDINI, 2017, p. 463). Atribui-se esta
+caracterização devido ao fato de trabalhos em língua inglesa utilizarem o termo Active
+Learning, o que tem sido traduzido literalmente como aprendizagem ativa.
+Dewey (1950), Bruner (1976), Piaget (2006), Vygotsky (1998) Rogers (1973), Ausubel et al.
+(1980), Freire (1996), entre tantos outros e de forma diferente, têm mostrado como cada
+pessoa (criança ou adulto) aprende de forma ativa, a partir do contexto em que se encontra, do
+que lhe é significativo, relevante e próximo ao nível de competências que possui. Todos esses
+autores questionam também o modelo escolar de transmissão e avaliação uniforme de
+informação para todos os alunos. Ademais, em livros, artigos, palestras, apresentações, são
+amplamente enfatizados que os alunos lembram 10% do que ouvem, 20% do que leem e essas
+percentagens de retenções aumentam em múltiplos de 10 dependendo do tipo de metodologia
+aplicada (MASTERS, 2013). Tem sido atribuído concomitantemente ao National Training
+Laboratories (NTL) e a Edgar Dale a construção da Pirâmide da Aprendizagem (Figura 1),
+embora esta Pirâmide tenha sido modificada ao longo das décadas (MASTERS, 2013), ela
+suscita a ideia de como os alunos aprendem. Um importante princípio da aprendizagem é que
+as pessoas aprendem melhor quando estão ativamente envolvidas no processo de
+aprendizagem. Quanto "mais baixo na pirâmide" o aluno está, mais ele aprende (DALE,
+1969).
+A Metodologia Ativa é uma estratégia que coloca os estudantes como principais agentes de
+seu aprendizado. Nela, o estímulo à crítica e reflexão é incentivada pelo professor que conduz
+a aula, mas o centro desse processo está no aluno. A transição de ambientes de aprendizado
+passivo para ativo está se tornando mais comum no mundo acadêmico (COOREY, 2016). As
+metodologias ativas dão ênfase ao papel protagonista do aluno, ao seu envolvimento direto,
+participativo e reflexivo em todas as etapas do processo, experimentando, desenhando,
+criando, com orientação do professor.
+Na literatura encontramos algumas definições para Metodologia Ativa. Uma delas diz que a
+metodologia ativa consiste em tirar o foco da transferência de informações, estimulando a
+busca por conhecimento de forma autônoma. Ela também pode ser definida como o conjunto
+de atividades que ocupa o estudante a fazer algo ao mesmo tempo em que deve pensar sobre o
+que está fazendo (MEYERS; JONES, 1993), tendo o aluno como sujeito que promove a sua
+própria aprendizagem (ativa). Para Leite (2017a, p. 1) as metodologias ativas “possibilitam a
+valorização da formação crítica e reflexiva do estudante que participa da construção de seu
+conhecimento, no processo de ensino e aprendizagem, favorecendo sua autonomia”. Nesse
+sentido, as metodologias ativas sugerem que o aluno busque o conteúdo, pesquise e encontre
+soluções para os problemas que se deparam e dessa forma aprendam a selecionar suas
+respostas. Elas geram interações entre docentes e estudantes nas atividades acadêmicas, de
+modo que não haja um único detentor pleno e absoluto do conhecimento. Mitre e
+colaboradores (2008, p. 2135) destacam que “as metodologias ativas estão alicerçadas em um
+princípio teórico significativo: a autonomia”. Segundo os autores as metodologias ativas
+utilizam “a problematização como estratégia de ensino e aprendizagem, com o objetivo de
+alcançar e motivar o discente, pois diante do problema, ele se detém, examina, reflete,
+relaciona a sua história e passa a ressignificar suas descobertas” (MITRE et al., 2008, p.
+2135). Para Gaeta e Masetto (2010, s.p.), metodologias ativas “são situações de aprendizagem
+planejadas pelo professor em parceria com os alunos que provocam e incentivam a
+participação, postura ativa e crítica frente à aprendizagem”. Na aplicação da Metodologia
+Ativa, o estudante é exposto a problemas ou desafios em que as soluções requerem
+identificação das principais variáveis intervenientes.
+Quando o aluno lê, escreve, questiona, discute, resolve problemas, ele se envolve ativamente
+no processo de aprendizagem. Dessa maneira, estratégias que promovem aprendizagem ativa
+podem ser definidas como sendo atividades que ocupam o aluno em fazer alguma coisa e, ao
+mesmo tempo, o leva a pensar sobre as coisas que está fazendo (BONWELL; EISON, 1991;
+SILBERMAN, 1996). Paiva et al. (2016) identificam diversas estratégias de aplicação das
+metodologias ativas, desde as amplamente discutidas na literatura, bem como as que têm
+poucas referências sobre o tema. Os autores relatam 22 diferentes tipos de operacionalização
+de metodologias ativas. Diante disso, a diversidade de propostas que apresentam princípios
+norteados por metodologias ativas é bastante significativa na educação, essas metodologias
+provocam os alunos a assumirem uma posição de maior responsabilidade na condução do seu
+processo de aprendizagem, passando a serem intensamente utilizadas na educação, algumas
+destas são: método do caso, sala de aula invertida (SAI), Instrução por Pares (Peer
+Instruction), Just-in-time Teaching (JiTT), Design Thinking (DT), aprendizagem baseada em
+problemas (PBL), projetos (PBL), equipes (TBL), games (GBL). Dessas propostas, neste
+artigo destacaremos três – envolvendo o ensino de química (SAI, Instruções por Pares e DT)
+– que são subsidiadas pelas TDIC.
+PERCURSO METODOLÓGICO
+Segundo Thiollent (2005) a metodologia é o item que orienta o processo de investigação na
+tomada de decisões, nas hipóteses e nas técnicas da pesquisa. Demo (2006) destaca que a
+metodologia problematiza criticamente, além de mostrar os caminhos do processo, indagando
+os limites da ciência em conhecer e intervir em uma determinada realidade. Com base nisso,
+esta pesquisa, de natureza qualitativa, abrange uma abordagem descritiva e interpretativa, no
+qual o ambiente natural constitui uma fonte direta de dados e atribui ao investigador o papel
+de instrumento principal de pesquisa (LUDKE; ANDRÉ, 1986). Ademais, a metodologia
+qualitativa permite a descrição, análise e avaliação dos dados de forma articulada e
+aprofundada. Além de ser adequada para compreender os fenômenos dentro de seu contexto,
+descobrindo ligações entre conceitos e comportamentos, e gerando e refinando a teoria
+(BRADLEY; CURRY; DEVERS, 2007). Ao optar por essa metodologia faz-se uma relação
+direta ao paradigma interpretativo realizando-se também uma abordagem dedutiva para filtrar
+conceitos, indicadores, categorias e implicações da literatura. Como observado por Bradley,
+Curry e Devers (2007, p. 1763), uma análise dedutiva permite que “novas investigações se
+beneficiem e se baseiem em insights anteriores no campo”, mas isso não exclui novas
+categorias. Este processo assegurou que as interpretações individuais da literatura fossem
+discutidas e coletivamente exploradas em detalhe, antes de completar o processo dedutivo de
+determinar as características do modelo da aprendizagem tecnológica ativa.
+A pesquisa foi realizada em quatro etapas: (i) Revisão da literatura sobre tecnologias e
+metodologias ativas. Nesta etapa buscou-se analisar o estágio atual da contribuição acadêmica
+em torno das tecnologias digitais e das metodologias ativas, que serviram como aporte
+teórico-metodológico para a conceituação da aprendizagem tecnológica ativa; (ii) Proposição
+do modelo explicativo da aprendizagem tecnológica ativa. Elucidam-se nesta etapa o conceito
+e as características do modelo proposto (intrinsecamente relacionado à fase anterior), bem
+como os pilares que o ancoram. (iii) Levantamento e análise de publicações envolvendo
+tecnologias e metodologias ativas no ensino de química. Considerando a natureza do material
+a ser analisado (artigos publicados em periódicos), optamos por utilizar o corpus latente sobre
+conteúdo. O corpus latente é um modelo de investigação que analisa informações contidas na
+Internet, extraindo-as a partir da análise da própria Internet, ou seja, sobre o conteúdo
+disponível (PINA; SOUZA; LEÃO, 2013). A partir do banco de dados do Google
+Acadêmico, pesquisamos artigos que envolvessem metodologias ativas, ensino de química e
+tecnologias. Para nossa análise extraímos a amostra utilizando as palavras-chaves
+“Metodologias Ativas e Química”, “Ensino aprendizagem metodologias ativas”,
+“Aprendizagem ativa na Química”, “Tecnologias ativas no ensino de química”, “Active
+Methodologies and Chemistry”, “Teaching learning active methodologies”, “Active learning
+in chemistry” e “Active Technologies in Chemistry Teaching”. Segundo Pina e colaboradores
+(2013), o uso de amostras aleatórias ou representativas permite aplicar técnicas de análises
+estatísticas. A opção pela versão em língua inglesa e em língua portuguesa para a mesma
+palavra de busca se deu devido ao pressuposto de que um número superior de trabalhos
+estariam disponíveis em língua inglesa, embora, nosso olhar está focado nos trabalhos em
+língua portuguesa. (iv) Discussões sobre o modelo da aprendizagem tecnológica ativa no
+ensino de química. A escolha na área de ensino de química, deve-se as implicações de que é
+uma disciplina de difícil compreensão e abstrata (SOUZA; LEITE; LEITE, 2015) e que
+pouco motiva os alunos a aprenderem (SANTOS et al., 2013). Desse modo, o modelo da
+aprendizagem tecnológica ativa leva-nos a acreditar que existem diversas possibilidades deste
+modelo contribuir para o ensino desta matéria.
+A partir da investigação obtida na primeira etapa da pesquisa, propõe-se o modelo da
+aprendizagem tecnológica ativa (segunda etapa). Posteriormente, utilizando-se os dados
+obtidos no levantamento e na análise das publicações no corpus latente (terceira etapa),
+apresentam-se características do modelo no Ensino de Química (quarta etapa).
+
+APRENDIZAGEM TECNOLÓGICA ATIVA
+Dado o novo tipo de interações que a Internet facilita e medeia, parece-nos relevante
+considerar um modelo que dá suporte ao uso das metodologias ativas com as tecnologias, que
+tendo algumas características que se cruzam com as anteriormente referidas, possui outros
+aspectos distintivos, que colocam este tipo de modelo num patamar diferente. Assim, a partir
+do uso das TDIC com as Metodologias Ativas tem se observado um crescimento de novas
+práticas em sala de aula, facilitando o processo de ensino e aprendizagem, conduzindo à
+Aprendizagem Tecnológica Ativa (ATA).
+A aprendizagem tecnológica ativa é um modelo explicativo sobre como ocorre a incorporação
+das tecnologias digitais às metodologias ativas no processo de ensino e aprendizagem visando
+melhorar a performance do aluno, que assume o protagonismo de sua aprendizagem, com
+autonomia e comprometimento. Segundo Beauchamp e Childress (1994) um modelo
+explicativo pode ser validado quando apresenta clareza, coerência, completude, simplicidade,
+poder explicativo, poder justificativo e poder resolutivo. Acrescentando-se, um modelo
+consiste na descrição de um sistema e/ou fenômeno que responde por algo já conhecido. O
+modelo da ATA propõe que o aluno tenha controle de sua aprendizagem, acessando
+conteúdos digitais (na nuvem) a qualquer momento, em qualquer lugar, em vez de depender
+exclusivamente do professor para seguir instruções. A ATA, num mundo conectado e digital,
+expressa-se por meio de modelos de ensino híbridos, com muitas possíveis combinações. A
+junção de metodologias ativas com as tecnologias trazem contribuições importantes para o
+desenho de soluções atuais para os aprendizes de hoje. Na aprendizagem tecnológica ativa os
+alunos podem se encontrar em um espaço on-line com o objetivo de falar, aprender,
+compartilhar informações ou colaborar em projetos. Eles mutuamente promovem uma
+participação proativa visando atender às necessidades dos outros.
+A estrutura conceitual que fundamenta a aprendizagem tecnológica ativa baseia-se em
+abordagens construtivistas, construcionistas e conectivistas. A ATA endossa uma visão
+construtivista quando no final do processo evolutivo da aprendizagem, o indivíduo se torna
+autônomo, questionador, adaptativo e interativo no seu meio (PIAGET, 2006). No aspecto
+construcionista, a ATA pondera que o conhecimento é construído quando o indivíduo está
+engajado na construção de algo externo, quando ele “põe a mão na massa” (PAPERT, 1986),
+além da aprendizagem ocorrer na interação entre indivíduo e o mundo. Por fim, a relação
+conectivista é observada quando a habilidade de realizar distinções entre a informação
+importante e não importante resulta ser vital (SIEMENS, 2004), tendo como ponto de partida
+o indivíduo, explicando como ele se comunica e como aprende.
+A composição da ATA constitui-se de cinco pilares que são considerados necessários para o
+processo de ensino e aprendizagem de forma ativa. Esses cinco pilares são: 1) O papel
+docente; 2) O protagonismo do aluno; 3) O suporte das tecnologias; 4) A aprendizagem; 5) A
+Avaliação. Em suma, cada pilar apresenta um grau de importância para a constituição de uma
+aprendizagem tecnológica ativa e são denominados de DATAV (Figura 2). A seguir
+descrevemos resumidamente cada pilar.
+O primeiro pilar de sustentação da ATA refere-se ao papel Docente (D). Considerando que
+para que a ATA ocorra é preciso que o primeiro passo seja efetuado, e o professor é
+primordial nessa execução. Na ATA o professor atua como orientador, supervisor, facilitador
+do processo de aprendizagem, e não apenas como fonte única de informação e conhecimento.
+Para que possa ajudar o aluno, o facilitador pedagógico, primeiramente, deverá possuir um
+entendimento claro da construção de conhecimento enquanto processo dinâmico e relacional,
+advindo da reflexão conjunta sobre o mundo real. Tal postura do professor configura-se como
+uma das características da metodologia ativa. Além disso, é preciso que os professores se
+dissociem de hierarquias e estejam dispostos a “cruzarem as linhas vermelhas” que dificultam
+seu novo papel. O professor ao utilizar as tecnologias com seus alunos pode ensinar a
+selecionar, analisar, criticar, comparar, avaliar, sintetizar, comunicar, informar. Esses são
+processos de pensamentos complexos que o professor mediador deve ensinar, para que seus
+alunos construam seu conhecimento. Cabe ressaltar, que o aluno em contato com o
+instrumento (computador, smartphone, laptop etc.) e a informação, não é conduzido ao
+conhecimento, ele vai “copiar e colar”. É preciso que o professor seja o mediador desse
+processo, ele deve ajudar o aluno a decidir sobre a direção de sua aprendizagem e a escolher
+entre múltiplas opções para aprender os conceitos requeridos. Visto que as circunstâncias e as
+necessidades de aprendizagem dos alunos são tão diferentes quanto eles próprios, não existe
+
+uma única definição para o professor ideal. Porém, o professor deve ir além do ensino pré-
+formatado e ajude os alunos a realizarem seus trabalhos, ou seja, preencha a lacuna da
+
+orientação acadêmica (HORN; STAKER, 2015). O papel do professor, na ATA, aproxima-se
+de uma concepção do profissional que facilita a construção de significados por parte do aluno
+nas suas interpretações do mundo.
+O segundo pilar se constitui do protagonismo do Aluno (A). Os alunos do século XXI estão
+entrando em um mundo conectado no qual necessitam de um sistema de ensino centrado
+neles. Para estimular o aluno a participar ativamente é preciso envolvê-lo e motivá-lo, de
+forma que interaja com o professor e com os demais alunos, tornando-o protagonista na
+construção de seu conhecimento. É preciso considerar nesse protagonismo dois elementos
+críticos da aprendizagem centrada no aluno, a possibilidade do aluno aprender de forma
+personalizada e aprender por competências (HORN; STAKER, 2015). O ensino
+personalizado refere-se que a aprendizagem é adaptada às necessidades particulares do
+estudante, ou seja, pode ocorrer onde, quando e como o aluno quiser. O segundo elemento
+crítico postula a ideia de que os “alunos devem demonstrar domínio de um determinado
+assunto” (HORN; STAKER, 2015, p. 9) antes de passar para o próximo, implicando em
+aspectos de perseverança e determinação, pois os estudantes têm de trabalhar nos problemas
+até que esses sejam resolvidos com sucesso. Se os alunos passam para um novo conceito sem
+compreender perfeitamente o anterior, isso cria lacunas em sua aprendizagem. O
+protagonismo do aluno o provoca a fazer as coisas, a colocar seu conhecimento em ação, a
+construir conhecimentos sobre os conteúdos envolvidos nas atividades que está realizando,
+provoca-o a pensar, a desenvolver estratégias cognitivas, a conceituar o que faz, não apenas
+como uma reprodução, mas com capacidade crítica e reflexiva sobre sua ação, de modo a
+apresentar feedbacks, interagindo com o professor e colegas, além de explorar atitudes e
+valores sociais e pessoais. Acrescenta-se a premissa de que o protagonismo do aluno evoca
+sua capacidade de tomar decisão a respeito de seu próprio aprendizado, ou seja, de sua
+autonomia. A capacidade de um aluno para desenvolver um plano de aprendizado pessoal,
+para encontrar recursos para o estudo em seu próprio ambiente pessoal/coletivo e/ou para
+decidir sozinho quando o progresso foi satisfatório, é imprescindível para uma ATA. Aceitar
+a idiossincrasia e a independência dos alunos como um recurso valioso é fundamental.
+O terceiro pilar descreve o suporte das Tecnologias (T) para promover uma ATA. O
+desenvolvimento das TDIC promove a criação de novos cenários de aprendizagem e que são
+alternativos a educação formal para receber a informação, transformá-la em conhecimento e
+compartilhá-la, ou seja, conectar com outras pessoas. É indubitável que as plataformas
+educativas supõem um suporte suficientemente robusto e consistente para fazer possível a
+implementação dos princípios pedagógicos no processo de ensino e aprendizagem de forma
+inovadora e com êxito. Sabendo que o conhecimento é distribuído numa rede de conexões e
+que a aprendizagem consiste na capacidade de construir essas redes e circular nelas –
+princípios do conectivismo (SIEMENS, 2004) – a aprendizagem tecnológica ativa faz uso do
+conhecimento que está na rede, ou seja, a ação de aprender utilizando as tecnologias pode
+ocorrer a partir da obtenção de informação externa ao conhecimento primário do indivíduo,
+resultado das conexões estabelecidas nas redes que fazem parte, por exemplo, aprender
+ativamente nas redes sociais. Destaca-se também que a Web 2.0 tem fornecido suporte ao uso
+das tecnologias pelos prosumidores, ou seja, pelos produtores e consumidores da informação
+(TOFFLER, 2007), de modo que apresenta potencial para mudar radicalmente a natureza do
+ensino e da aprendizagem e, através da criação de redes de aprendizagem controladas pelos
+prosumidores modificam o papel das tecnologias, consequentemente, na forma que se
+aprende. Diante do exposto, o professor deve saber as contribuições e limitações que cada
+recurso tecnológico apresenta, de modo que possa utilizá-lo nos projetos pedagógicos da
+disciplina e adequá-lo às estratégias de ensino, além de permitir a escolha consciente da
+tecnologia que melhor se adapta ao conteúdo a ser ensinado, promovendo uma ATA.
+A ATA não se restringe a um único modelo de Aprendizagem (A), nela várias aprendizagens
+podem ser utilizadas e misturadas (blended). Embora seja fundamentada na aprendizagem
+ativa (MARTÍN, 2017), o quarto pilar da ATA apresenta quatro tipos de aprendizagem, não
+excludentes, tampouco únicas, que são comumente observadas: Aprendizagem individual
+(aquela que o aluno aprende de forma autônoma e pessoal), Aprendizagem colaborativa (em
+que favorece a colaboração entre pares, atingindo um determinado objetivo), Aprendizagem
+Social (em que o aluno aprende pela observação dos outros) e Aprendizagem Ubíqua (o aluno
+tem seu aprendizado ocorrendo a qualquer momento e em qualquer lugar), todas centradas no
+aluno. Descrevemos de maneira concisa cada uma delas.
+Aprendizagem Individual (API): é qualquer mudança sistemática no comportamento
+individual ocorrida ao longo de certo período de tempo e que se completa quando o
+indivíduo atinge um padrão estável de comportamento (REIS, 1975). Segundo
+McWhinney (1963), a aprendizagem individual relaciona-se com a aptidão do
+indivíduo para a realização de uma dada tarefa. A API é derivada de condições
+acadêmicas (das relações com o professor e colegas) e estruturais (da organização das
+informações, dos detalhes estruturais e conceituais do que se aprende). A
+aprendizagem é um processo neural complexo, que leva à construção de memórias.
+Nós aprendemos lendo, ouvindo, errando, praticando, vivenciando e observando os
+outros. Inúmeras são as formas de aprender e cada pessoa se vê única nesse processo.
+Aprendemos intencionalmente e espontaneamente. Fleury e Fleury (2001, p. 192)
+afirmam que o processo de aprendizagem ocorre “primeiro no nível do indivíduo,
+carregado de emoções positivas ou negativas, através de caminhos diversos”. Leite
+(2015, 2016) vem destacando o modelo de Aprendizagem 2.0 (aprender fazendo,
+aprender interatuando, aprender buscando e aprender compartilhando), cuja
+característica enriquece atividades baseadas na web, consequentemente, ressaltam a
+ATA. De certo, a forma como o indivíduo aprende tem sido discutida frequentemente
+em diversas teorias de aprendizagem;
+Aprendizagem colaborativa (APC): considera que a troca de conhecimento pode
+levar à realização dos objetivos propostos. É preciso distinguir aprendizagem
+colaborativa de aprendizagem cooperativa (ONRUBIA; COLOMINA; ENGEL,
+2010). Uma aprendizagem cooperativa é essencialmente um processo de divisão do
+trabalho, em que os participantes concordam em ajudar uns aos outros. Por sua vez, na
+APC, cada membro do grupo “contribui para resolver conjuntamente o problema”
+(ONRUBIA; COLOMINA; ENGEL, 2010, p. 210). A colaboração depende do
+estabelecimento de uma linguagem e de significados comuns no que diz respeito à
+tarefa, além de uma meta comum para o conjunto dos participantes. Nesse contexto, é
+preciso considerar as contribuições dos ambientes pessoais de aprendizagem que estão
+centrados na interação social e na colaboração, além de que o seu conceito está
+atribuído às condições de aprendizagem autônoma de educandos, baseado no uso de
+tecnologias a partir da Web 2.0 (LEITE, 2016). Ademais, o ambiente pessoal de
+aprendizagem representa “um passo importante para uma aprendizagem centrada nos
+alunos, com o uso das tecnologias” (LEITE, 2015, p. 165). A relação entre o ambiente
+pessoal e a aprendizagem colaborativa é evidenciada quando o conhecimento é visto
+como um produto social, e o processo educacional é facilitado pela interação social
+em um ambiente que propicia a colaboração, a cooperação e a avaliação. Com efeito,
+a APC contribui para o desenvolvimento da capacidade crítica por meio de debates,
+discussões e socialização das ideias com os demais colegas. Uma APC conhecida na
+literatura é a Aprendizagem Colaborativa Apoiada por Computador (CSCL), pois
+
+combina a noção de aprendizagem colaborativa com o potencial das TDIC para apoiá-
+la, ou seja, é ancorada com os pressupostos da ATA;
+Aprendizagem social (APS): centra-se nas necessidades do indivíduo, é um conceito
+que se refere a uma aprendizagem que ocorre por meio de observação, conversação ou questionamento. Nela aprendemos “de” e “com” os “especialistas”, além de se
+desenvolver através de conversas, das redes sociais, e da Web 2.0. Bandura (1979)
+propôs que a APS pode ocorrer devido à observação dos outros. As pessoas aprendem
+coisas novas quando observam as ações dos outros, ou seja, os alunos adquirem novos
+comportamentos (aprendizado) através da observação dos outros. A APS (atualmente
+teoria social cognitiva) ocorre em contextos de interações estáveis, muitas vezes na
+Web em torno de problemas ou ações, nos quais há coisas a serem feitas, conhecidas,
+entendidas e dominadas. Ela é colaborativa, no sentido de que os participantes falam
+(escrevem etc.) sobre o que eles estão fazendo e tentam entender, conseguindo
+compreender conceitos, princípios e procedimentos por meio de suas interações e
+comunicações. Ao tentar criar algo, os alunos se deparam com situações e problemas
+que são novos para eles e não sabem como agir. Eles vão explorar e tentar resolver os
+problemas, buscando alternativas para isso. E quando o fazem, frequentemente
+compartilham on-line ou face a face com os pares envolvidos na mesma atividade.
+Quando compartilham on-line, geralmente em sítios, blogs, fóruns, redes sociais etc.,
+outras pessoas podem também estar discutindo sobre o problema, sugerindo soluções
+e explicando-as, considerando os comentários e o feedback fornecido pelos demais
+colegas (ROMANCINI, 2015). Esses alunos estão em busca de informação sobre o
+que é válido do conteúdo em questão e podem encontrar por meio da ATA;
+Aprendizagem Ubíqua (APU): tem como princípio permitir a qualquer um, aprender
+em qualquer lugar e a qualquer momento, possibilitada pelas tecnologias digitais e de
+conexão contínua, afetando diretamente a forma de ensinar e aprender. Nesse sentido,
+a APU se refere ao ambiente que permita que um dispositivo móvel acesse conteúdos
+de ensino e aprendizagem através de redes sem fio em qualquer local e a qualquer
+momento. Um ambiente de aprendizado ubíquo permite que os alunos aprendam com
+um PDA (Personal Digital Assistant), smartphone, Tablet, PC ou laptop, em situações
+internas, externas, individuais e em grupo. Segundo Yahya et al. (2010, p. 120), o
+objetivo da APU é “fornecer a informação certa no momento e local certos para
+acomodar o estilo de vida e de trabalho”. Os autores destacam algumas características
+como: permanência (os estudantes nunca perdem seus trabalhos, o processo de
+aprendizagem é lembrado continuamente, a menos que seja removido), acessibilidade
+(acessam aos dados, vídeos, documentos de qualquer lugar, ou seja, as informações
+estão disponíveis sempre que os alunos precisarem usá-las), informação imediata (em
+qualquer momento o aluno pode ter acesso à informação), interatividade (os alunos
+podem interagir com colegas, professores e especialistas de forma eficiente e eficaz
+através de diferentes mídias), atividades (educativas) situadas (a aprendizagem se
+“integra” a vida diária, os problemas encontrados e o conhecimento exigido estão
+presentes de forma natural e autêntica). Assim como na APC, na APU o professor está
+presente, mas ele não é o detentor do conhecimento, sua função é de mediar a
+construção do conhecimento, utilizando as tecnologias digitais. Além disso, na APU o ponto mais importante é o acesso às redes e, a comunicação, pode ocorrer em
+qualquer tempo e hora, por meio de dispositivos móveis. A APU se dá sempre no
+“aqui e agora, sendo, por natureza, dispersa, casuística, o que pode levar muitos a
+negar que haja aí processos de aprendizagem” (SANTAELLA, 2014, p. 21). Ademais,
+a aprendizagem ocorre quando o aluno utiliza os dispositivos móveis conectados em
+rede, transformando a informação em aprendizagem (SANTAELLA, 2014). As
+características que a ubiquidade apresenta endossam sua importância na ATA.
+Na ATA esses quatro tipos de aprendizagens podem ser observadas simultaneamente em uma
+proposta, dependendo do tipo de estratégia que o professor incorpore.
+Por último, não menos importante, temos o pilar da Avaliação (V) que está presente na ATA.
+A avaliação desempenha um papel essencial para a educação, consiste em refletir, requer
+analisar seus resultados e tomar decisões em relação ao que fazer para que os alunos superem
+as suas dificuldades e avancem. Na ATA diversos tipos de avaliação podem ser observadas:
+classificatória, diagnóstica, formativa, somativa, autoavaliação etc. É pujante estabelecer que
+na ATA, uma avaliação formativa é fundamental para identificar as dificuldades dos alunos
+de modo a ajudá-los a descobrirem meios que lhes permitirão progredir em sua aprendizagem
+(HOFFMANN, 2014). Por outro lado, a avaliação na ATA deve ocorrer por meio da
+compreensão e mediação, ao invés da verificação e medição. A avaliação compreensiva e
+mediadora consiste em ampliar as possibilidades de aprender dos alunos a partir de um
+acompanhamento de ações desenvolvidas por eles nos ambientes digitais (na qual a
+aprendizagem está centrada neles). Ela auxilia os alunos a estudarem seus avanços (para os
+que conseguiram), mostrando ao mesmo tempo aqueles aspectos que ainda podem melhorar.
+O erro, neste caso, não é considerado como negativo, ele é construtivo, é parte no processo de
+uma aprendizagem ativa. Ademais, o processo de avaliação pode ocorrer de duas formas:
+avaliação formal (ocorre com data e horário pré-estabelecidos) ou avaliação informal
+(acontece sem tempo e espaço pré-estabelecidos), ambas possíveis na ATA. Outrossim, é
+preciso considerar que a aprendizagem colaborativa pode contribuir na avaliação em uma
+ATA, ao fornecer relacionamentos de tutoria por meio da interação de estudantes
+“avançados” (que apresentam nível de conhecimento aprofundado sobre um determinado
+conteúdo), “iniciantes” (aqueles que estão conhecendo o conteúdo ou apresentam nível de
+compreensão do conteúdo incipiente) e “intermediários” (que apresentam bom conhecimento
+sobre o conteúdo, em que podem auxiliar os estudantes “iniciantes” que apresentam
+dificuldades, contudo diante de uma complexidade do conteúdo necessitam da ajuda dos
+“avançados”), de modo que o aumento no desempenho das avaliações é fomentado por meio
+da troca de experiências e aprendizado coletivo.
+Os pilares descritos acima, de forma concisa, sintetizam a complexidade da aprendizagem
+tecnológica ativa na Educação. Embora existam inúmeros benefícios associados a ela, os
+educadores devem estar cientes dos possíveis obstáculos. Para que os alunos se envolvam na ATA e maximizem os benefícios, os professores devem coordenar conscientemente a
+atividade de aprendizagem. A luz dessa discussão, considerando que o foco da ATA é a
+construção de conhecimento utilizando as tecnologias digitais por meio das metodologias
+ativas, encontramos algumas propostas que contemplam essa abordagem (etapa 3).
+Descrevemos na próxima seção uma breve análise na área do Ensino de Química.
+
+APRENDIZAGEM TECNOLÓGICA ATIVA NO ENSINO DE QUÍMICA
+A investigação utilizando o corpus latente sobre conteúdo forneceu trabalhos que abordavam
+as tecnologias e metodologias ativas no Ensino de Química. Embora o Google Acadêmico
+tenha um caráter infinito de dados para o corpus latente de conteúdo, ou seja, se realizarmos
+uma busca um período depois os resultados apresentados terão alta probabilidade de serem
+diferentes, no entanto as amostras obtidas, conforme Souza (2010), possibilitam uma análise
+representativa das produções sobre a ATA no Ensino de Química. Analisamos o corpus
+latente dos artigos em relação a seus objetivos, áreas de concentração e relatos de
+experiências, compreendendo suas contribuições. Realizou-se a leitura de seus resumos,
+considerando que estes apresentam uma boa forma de identificar os objetivos do trabalho.
+Quando essa informação não estava explícita no resumo, se fez necessário a leitura na íntegra
+do texto, possibilitando evidenciar as características da ATA.
+Sala de aula invertida no Ensino de Química
+O primeiro tipo de aprendizagem tecnológica ativa que destacamos é o modelo da sala de aula
+invertida (Flipped Classroom). A priori para discutirmos sobre a SAI é preciso diferenciá-la
+da aprendizagem invertida. Em poucas palavras, na sala de aula invertida, proposta pelos
+professores de química Bergmann e Sams (2016), o estudante faz em casa o que
+tradicionalmente fazia na sala de aula. A SAI significa uma mudança na maneira de ensinar,
+servindo como ponto de partida para pôr o professor e seus alunos no caminho de uma
+aprendizagem invertida (flipped learning). Ao inverter a sala de aula, o modo como o
+professor ensina evoca a aprendizagem invertida (MARTÍN, 2017). Segundo Martín (2017, p.
+21) a aprendizagem invertida “consiste em criar um novo ambiente de relação entre
+professores e alunos em que mudam os papéis tradicionais e se inverte o protagonismo”. A
+SAI é um tipo de Modelo de Rotação presente no ensino híbrido em que o aluno estuda um
+conteúdo didático em casa e a sala de aula é utilizada para a resolução de atividades,
+discussões sobre o conteúdo, entre outras propostas.
+A SAI engloba toda uma série de metodologias baseadas na transmissão da informação a
+aprender por meios eletrônicos fora da sala de aula (MARTÍN, 2017). A informação que os
+alunos devem aprender se transmite em hipertextos e hipermídias com links a documentos, apresentações, vídeos e podcasts. Desse modo, se utiliza o tempo de aula para um diálogo
+bidirecional, em vez de desperdiçar todo o tempo da aula em um monólogo explicativo
+ininterrupto de informações que, por outro lado, os estudantes podem encontrar nos diferentes
+materiais didáticos (livros, vídeos, jogos, artigos etc.). A preparação dos alunos para a aula é
+“estimulada e encorajada de diferentes maneiras em cada um dos meios de comunicação
+descritos para chegar a uma aprendizagem invertida” (MARTÍN, 2017, p. 21). A
+implementação de uma aprendizagem invertida implica enriquecer a comunicação
+bidirecional por meios virtuais, isto é, utilizando as TDIC, entre professores e alunos antes
+das aulas. Contudo, é necessário que o professor estabeleça um sistema eficaz de
+“comunicação bidirecional com seus alunos podendo obter informações muito valiosas e
+pertinentes sobre as dificuldades e reações de seus alunos” (MARTÍN, 2017, p. 91) quando se
+discute sobre os materiais propostos e na interação sobre o conteúdo em sala de aula.
+A compreensão dos vários aspectos relacionados com a mudança no papel do professor na
+aprendizagem invertida é descrita por quatro pilares, denominados de FLIP (criados pela
+Flipped Learning Community Network). Estes pilares são:
+Flexibilidade do ambiente de aprendizagem (F de Flexible environment). Neste pilar a
+aprendizagem invertida se adapta à variedade de metodologias à disposição do espaço de
+aprendizagem para discutir um conteúdo ou unidade;
+Cultura da aprendizagem centrada no que aprende (L de Learning culture). Neste pilar
+deve-se produzir uma quebra de paradigmas desde o modelo tradicional de ensino
+(centrado no protagonismo do professor que ensina) ao novo paradigma centrado no
+protagonismo dos que aprendem.
+O uso intencional do conhecimento para aprender (I de Intentional). Os professores devem
+usar o conteúdo a ser aprendido para “alcançar a compreensão de ideias essenciais e do
+desenvolvimento dos alunos a longo prazo” (MARTÍN, 2017, p. 97). Os professores
+devem determinar o que deve ser ensinado e quais conceitos devem ser estudados.
+Educador profissional (P de professional). Como já observado, o papel do professor é mais
+complexo que o que ele tinha no ensino dito tradicional. Segundo Martín (2017, p. 97) o
+professor “deixa de ser somente apresentador de informação e avaliador de sua
+assimilação”. No tempo utilizado em sala de aula, o professor conduz os alunos, os guia,
+os observa e avalia seu trabalho, proporcionando-os feedback relevante no momento em
+que os alunos necessitam.
+Implementar o modelo invertido supõe aprender a diagnosticar no momento os problemas dos
+estudantes para aprender e desenvolver soluções para a aula.
+No semestre letivo de 2007-2008 Bergmann e Sams (2016) foram os primeiros divulgadores
+de algumas técnicas da SAI na Química, utilizando o vídeo como material para estudo prévio,
+com a vantagem de que cada aluno pode assisti-lo no seu ritmo, quantas vezes precisar. Eles gravaram todas as aulas de química para esse semestre. A experiência serviu como
+incentivadora para que professores de Química buscassem aplicar a SAI em suas aulas. Os
+cinco pilares (DATAV) da ATA são contemplados na SAI, como observamos nos artigos
+analisados (etapa 3). A saber, em língua inglesa, encontramos inúmeras pesquisas utilizando a
+SAI como metodologia para o Ensino de Química. Desde comprovando a eficácia da SAI em
+turmas grandes (YESTREBSKY, 2015), seu impacto no desempenho e retenção dos alunos
+na disciplina de Química Geral (RYAN; REID, 2016) e nas notas dos alunos de Química
+Orgânica (CORMIER; VOISARD, 2018), bem como na avaliação de um Curso de Química
+Orgânica (MOORING; MITCHELL; BURROWS, 2016), de cursos de química no ensino
+superior (SEERY, 2015) e do Ensino Médio (SCHULTZ et al., 2014).
+A primeira experiência tratando sobre a SAI no Ensino de Química, em língua portuguesa,
+observada no corpus latente foi descrita por Leite (2017b). O artigo apresenta um relato sobre
+a importância das contribuições da SAI na prática docente, embora pouco se tem discutido no
+Ensino de Química. O artigo sugere algumas possibilidades e contribuições que o uso da SAI
+no ensino de química pode ocasionar. Muitas dessas sugestões apresentam características da
+ATA, como a utilização de recursos didáticos digitais, pertinentes aos conteúdos e acessíveis
+a todos os estudantes. Para Leite (2017b, p. 1594) o “uso de softwares e hipermídias podem
+contribuir para a aprendizagem dos alunos”. Sob o mesmo ponto de vista, o uso de
+hipertextos e podcasts com foco no conteúdo de química configuram-se como uma estratégia
+pertinente em termos educacionais e da ATA. Ademais, é destacado grande potencial do
+vídeo – assim como Bergmann e Sams (2016) utilizaram – na metodologia da SAI.
+Outro trabalho em língua portuguesa sobre a SAI foi produzido por Chaparro (2016). Este
+trabalho não foi analisado na pesquisa de Leite (2017b), pois tratava-se de uma publicação em
+congressos e não era o foco de sua investigação. Chaparro (2016) aplicou a metodologia da
+SAI para o estudo de Modelos Atômicos no Ensino Médio, indicando que os resultados dessa
+proposta propiciou aos alunos uma aprendizagem colaborativa e significativa, corroborando
+com os pressupostos da ATA. É interessante destacar que as atividades propostas (uso de
+vídeos do youtube®, hipermídias, simulações e animações) eram disponibilizadas em uma
+rede social, ou seja, a atividade possibilitou, por exemplo, a interação nas redes (característica
+da ATA). A autora destaca que uma das contribuições da SAI foi o incentivo à concentração e
+à leitura, relacionando ao fato dos alunos também se motivaram por terem familiaridade com
+as ferramentas usadas (recursos didáticos digitais, redes sociais etc.).
+Melo e Sánchez (2017) relataram uma experiência em que analisaram as percepções dos
+alunos sobre a metodologia da SAI para o ensino de técnicas avançadas em laboratórios de
+resíduos. A pesquisa apresenta o uso do vídeo como uma ATA, considerando a utilidade e
+facilidade deste recurso, ocasionando em uma maior interação dos alunos com o professor e
+entre eles, e que a dedicação do professor na criação dos vídeos foi valorizada positivamente
+pelos alunos. É preciso destacar também que alguns alunos foram resistentes a implementação deste modelo frente a uma aula mais “tradicional” (MELO; SÁNCHEZ,
+2017). Os autores indicam que a SAI é uma alternativa para o ensino e aprendizagem do
+trabalho experimental e envolve alunos em sua própria aprendizagem, permitindo que eles
+interajam constantemente com seu ambiente educacional, resolvendo problemas e tomando
+decisões, corroborando com os fundamentos da ATA.
+
+Para discutir o conteúdo de radioatividade com alunos do 3° ano do ensino médio, Lima-
+Júnior e colaboradores (2017) aplicaram a SAI na disciplina de Química. A estratégia
+
+utilizada para promover a ATA nas aulas deu-se por meio do uso de quizzes, vídeos e de uma
+wiki como ambiente virtual de aprendizagem. Segundo os autores (2017, p. 137) “houve uma
+participação mais ativa dos alunos nas atividades em sala de aula, os quais, ao lerem os textos
+presentes na plataforma on-line, assistirem às vídeo-aulas e responderem os quizzes, antes da
+aula presencial”. Ademais, a SAI provocou nos alunos uma participação mais ativa, fazendo
+com que estes apresentassem colocações “mais fundamentadas, críticas e argumentativas nas
+discussões em sala de aula” (LIMA-JUNIOR et al., 2017, p. 137), além de obterem um
+desempenho superior a uma turma (do mesmo ano) que não utilizou a SAI durante a
+intervenção do conteúdo proposto.
+Instrução por Pares no Ensino de Química
+Apoiado em leituras pré-aula relacionadas ao tema proposto, o professor fomenta e medeia o
+debate entre os alunos, lançando questões conceituais baseadas nas dificuldades da turma. As
+aulas, assim, tornam-se direcionadas e efetivas, propiciando o auxílio mútuo entre os alunos
+na construção de seu conhecimento. Essa descrição de atividade é fundamentada pelo modelo
+Peer Instruction (PI) ou Instrução por pares, proposto por Eric Mazur (na década de 90). Esse
+modelo visa o entendimento e aplicabilidade dos conceitos, valendo-se da discussão entre os
+alunos. Entretanto, deve-se ter o cuidado com a tradução “instrução por pares”, pois ela pode
+dar a falsa impressão de que os alunos deverão trabalhar, necessariamente, em duplas (pares),
+o que não é verdade, uma vez que podem ser formados (também) grupos de estudantes. Para
+obter uma melhor dinâmica de grupo, pequenos grupos (abaixo de seis) são
+comprovadamente mais eficazes (COOREY, 2016). Pequenos grupos impedem a passividade
+e são menos propensos a cair sob o domínio de alguns membros, como os grandes grupos
+geralmente experimentam.
+Nessa metodologia exige-se que os alunos leiam, pensem e reflitam antes da aula (TOLEDO;
+LAGE, 2013). Com efeito, o professor pode dialogar com seus estudantes através do
+ambiente virtual de aprendizagem da disciplina, o que proporciona, também, um
+acompanhamento de todo o processo, característica de um ambiente baseado na ATA. A
+Instrução por Pares envolve os alunos durante as aulas, através de atividades que exigem que
+cada aluno aplique os conceitos básicos que estão sendo apresentados e depois explique esses
+conceitos aos seus colegas (CROUCH; MAZUR, 2001). Consiste em prover material de apoio de modo que o aluno possa estudar o conteúdo antes de frequentar a sala de aula. Com
+base no material estudado, o aluno responde um conjunto de questões, via um ambiente
+virtual de aprendizagem. O professor antes de ministrar a aula, verifica as questões mais
+problemáticas, que devem ser trabalhadas em sala de aula. A metodologia de aplicação da
+instrução por pares prevê, o uso da tecnologia para alcançar os objetivos, assim reforçando
+um dos pilares da ATA. Ademais, essa metodologia pressupõe que a aprendizagem seja
+conduzida também por meio da interação entre os próprios estudantes, outro atributo da ATA.
+A instrução por pares pode ocorrer da seguinte maneira: Primeiro é importante que o aluno
+tenha estudado o conteúdo proposto antes de ir para a aula. Após a leitura prévia dos
+conteúdos, na aula o professor faz uma rápida exposição do tema (já estudado em casa), com
+duração de 7 a 10 minutos e aplica os testes conceituais (ConceptTest) sobre os conteúdos que
+estudaram por meio de softwares e aplicativos, em que o professor acessa instantaneamente o
+desempenho de cada aluno por meio do computador. Estes testes são respondidos via sistema
+de resposta interativo, tipo clickers, formulários (como os do Google Docs ou Monkey
+Survey) ou flashcards, de modo que a classe e o professor possam acompanhar o nível de
+compreensão sobre os conceitos em discussão. Antes de responderem ao teste, os alunos têm
+um ou dois minutos para pensar sobre a questão e formular suas próprias respostas. É
+importante que no primeiro momento os colegas não saibam as respostas uns dos outros para
+não serem mutuamente influenciados. Dessa forma é possível verificar as principais
+dificuldades e então realizar as devidas explicações sobre o tema da aula. ConcepTests
+apropriados são essenciais para o sucesso dessa metodologia (CROUCH; MAZUR, 2001).
+Eles devem ser elaborados para dar aos alunos a oportunidade de explorar conceitos
+importantes, em vez de testar esperteza ou memória, e expor dificuldades comuns com o
+material. É preciso destacar que a partir do nível de acertos e erros dos alunos, a aula adota
+diferentes rumos. Se o percentual de acerto for inferior a 30% o professor repete a exposição,
+apresentando outros elementos (não discutidos no início da aula). Se o percentual de acerto
+está entre 30% e 70%, ocorre a Instrução por pares, ou seja, formam-se grupos de alunos que
+discutem o conteúdo abordado. A ideia é que eles cheguem a um consenso sobre a resposta
+correta. Este processo conduz os alunos a pensarem sobre os argumentos a serem
+desenvolvidos e permite que eles (assim como o professor) possam avaliar o nível de
+compreensão sobre os conceitos antes mesmo de terminar a aula. A partir disso é reaplicado o
+teste conceitual para avaliar o nível de entendimento dos estudantes e se o percentual de
+acerto for acima de 70%, o professor faz uma explanação sobre as respostas, e posteriormente
+apresenta uma nova questão ou introduz um novo conteúdo (Figura 3). Salientamos que os
+cinco pilares da ATA (DATAV) estão explicitamente presentes nessas etapas.
+Resumindo, segundo Crouch e Mazur (2001), na instrução por pares o professor propõe
+questões baseadas nas respostas do aluno sobre sua leitura “pré-classe”. O aluno reflete sobre
+essas questões, pratica resolução de exercícios individualmente. O professor corrige as
+respostas do aluno. Este discute as suas ideias e responde questões com seus pares, pratica de
+novo a resolução de exercícios individualmente. Por fim, o professor novamente revisa as
+respostas e decide se é necessário mais explicações antes de mudar para o conceito seguinte.
+A instrução por pares promove a interação em sala de aula para envolver os alunos e abordar
+aspectos críticos da disciplina (ROCHA; LEMOS, 2014). Faz com que os alunos aprendam
+enquanto debatem entre si, provocados por perguntas conceituais (que podem ser de múltipla
+escolha), direcionadas para indicar as dificuldades dos alunos e promover no estudante uma
+oportunidade de pensar sobre conceitos desafiadores.
+O primeiro relato da Instrução por pares no ensino de química, a partir de nosso levantamento
+no corpus latente foi em 2006, quando Golde, McCreary e Koeske (2006) avaliaram a
+aprendizagem dos alunos a partir da instrução por pares no laboratório de Química Geral. A
+atividade conduziu os alunos a descobrirem uma abordagem geral e eficaz para realizar
+atividades no laboratório, envolvendo-os na construção de seus próprios conhecimentos.
+Ademais, os autores indicam que melhorias foram observadas no desempenho dos estudantes,
+destacando a relação professor-aluno, permitindo a adoção “de uma abordagem baseada em
+pequenos grupos” (GOLDE; MCCREARY; KOESKE, 2006, p. 810), interação e trabalho
+coletivo, apresentando atributos da ATA.
+Passados dez anos, o primeiro trabalho (e único encontrado) em língua portuguesa sobre a
+instrução por pares no ensino de química foi publicado por Moraes, Carvalho e Neves (2016),
+que relatam os resultados de um estudo exploratório em quatro turmas de química, abordando
+o conteúdo de estequiometria. A experiência da instrução por pares, segundo os autores, com
+os alunos mostrou-se positiva, em que os alunos apresentaram engajamento e motivação com
+a proposta abordada em sala de aula (conforme os preceitos da ATA). Foi considerado como
+um método adequado para o ensino de química, permitindo aos alunos, “a elucidação de
+conceitos importantes e subjacentes” (MORAES; CARVALHO; NEVES, 2016, p. 1), além
+de proporcionar novas estratégias para o ensino de química.
+Evidenciamos em nosso levantamento que em língua portuguesa, relacionado com a química,
+apenas um trabalho foi publicado. A falta de trabalhos sobre a instrução por pares no ensino
+de química indica a necessidade de mais pesquisas que relatem as contribuições desta
+metodologia. É notória sua relevância e quando incorporada a estratégias envolvendo a ATA,
+por certo resultará na autonomia do estudante (à medida que estuda e pesquisa sobre o
+conteúdo antes de ir para a aula), no aprendizado individual (estudando o assunto
+previamente) e coletivo (ao estudar e debater sua opinião e pensamentos com os demais
+colegas). Em vista disso, cabe ressaltar que a instrução por pares promove uma comunidade
+de aprendizagem colaborativa (um dos pilares da ATA), aumenta as habilidades de liderança
+e cria aprendentes para toda a vida.
+Design Thinking no Ensino de Química
+Por último, destacamos o Design Thinking (DT) que apresenta possibilidades de uma
+aprendizagem tecnológica ativa. O DT é um novo jeito de pensar e abordar problemas ou,
+dito de outra forma, um modelo de pensamento centrado nas pessoas. Pode ser uma
+abordagem que descentraliza a prática do design das mãos de profissionais especializados ao
+permitir que seus princípios sejam adotados por pessoas que atuam em áreas profissionais
+variadas (CAVALCANTI; FILATRO, 2016) ou uma metodologia para propor soluções
+criativas e inovadoras para problemas que utilizam a forma de pensar dos designers. Para Tim
+Brown, um dos maiores defensores do DT, é um modelo que “se baseia em nossa capacidade
+de sermos intuitivos, reconhecer padrões, desenvolver ideias que tenham significado
+emocional assim como funcional, nos expressar em mídias além de palavras ou símbolos”
+(BROWN, 2009, p.4). Na literatura encontramos algumas propostas para as etapas do DT na
+educação, que são basicamente semelhantes. A primeira descrita pelo Bootcamp Bootleg
+(D.SCHOOL, 2011) considera cinco etapas para sua execução: criar empatia (às vezes
+dividida em entender e observar), definir, idear, prototipar e testar. Outra proposta é da Ideo
+(2009) sendo apresentada no HCD Toolkit como ouvir, criar e entregar (do inglês Hear,
+Create e Deliver, formando o acrônimo HCD e de analogamente a Human Centered Design).
+Já o Design thinking para educadores (IDEO, 2013) propõe os seguintes passos: descoberta, interpretação, ideação, experimentação e evolução. Em alguns casos, esses passos são
+resumidos em imersão (descoberta e interpretação), ideação e prototipagem (experimentação
+e evolução).
+Na educação o DT pode ser percebido em três aplicações (CAVALCANTI; FILATRO,
+2016):
+Como uma abordagem de inovação: Fundamentado na ideia de inovar, criar algo,
+reorganizar ideias ou melhoria de produtos, processos e serviços. Sem considerar,
+necessariamente, a aprendizagem que ocorre durante o processo de inovar. O enfoque está
+centrado nos resultados da implementação de uma ou mais inovações. Dos três tipos de
+aplicação, essa é a que menos observamos na educação, por outro lado, é uma das mais
+utilizadas em empresas de marketing e gestão;
+Como metodologia para solução de problemas: O DT se apresenta como “metodologia
+adequada para a educação porque propõe a solução de problemas a partir da prática da
+empatia, a qual coloca as pessoas envolvidas no centro do processo e dentro do contexto
+em que ocorre a situação desafiadora” (CAVALCANTI; FILATRO, 2016, p. 61);
+Como estratégia de ensino e aprendizagem: Nessa aplicação o DT tem sido apontado como
+um “ingrediente alternativo, que quebra a rigidez de abordagens pedagógicas centradas no
+ensino transmissivo” (CAVALCANTI; FILATRO, 2016, p. 65). O DT como estratégia de
+ensino e aprendizagem permite que estudantes trabalhem em grupos e, de forma criativa,
+projetem soluções para problemas reais, identificados em um contexto específico.
+O DT pode ser adotado como uma ATA uma vez que, em suas etapas, grupos de estudantes
+têm a possibilidade de não só propor soluções para um problema identificado como também
+de prototipá-las, fazendo uso das TDIC. O DT tem muito a contribuir na educação por
+estimular que a resolução de problemas, a inovação e a adoção de estratégias de ensino e
+aprendizagem centradas nos estudantes, promovendo maior significado e efetividade as
+práticas pedagógicas e considerando as TDIC, torna-se uma poderosa estratégia com a ATA.
+Por ser mais complexo na sua realização no campo educacional, trabalhos envolvendo o DT
+na educação ainda são escassos, principalmente quando envolve as tecnologias. Em nossa
+busca no corpus latente, apenas um trabalho em língua portuguesa envolvia a química. Este
+trabalho descreve o processo de elicitação e documentação de requisitos para ambientes
+virtuais de aprendizagem móvel (SOUZA; SILVA, 2014). A ação foi baseada nos conceitos
+do DT, provocando as necessidades dos clientes, produzindo protótipos rápidos e simples que
+eventualmente convergem para soluções inovadoras. As autoras seguiram os passos proposto
+pela Ideo (2013), considerando a imersão, ideação e prototipagem, além de enfatizaram que é
+“necessário um número razoável de participantes para que possamos encontrar propostas
+interessantes” (SOUZA; SILVA, 2014, p. 13). É mister destacar que no DT para obter bons
+resultados, quanto mais propostas são realizadas na etapa de brainstorm (ideação), mais soluções são encontradas, e as tecnologias (baseadas nos princípios da ATA) possibilitam
+alcançar uma resolução considerada adequada ao problema inicial.
+CONSIDERAÇÕES FINAIS
+A incorporação da Aprendizagem Tecnológica Ativa permite que professores e alunos
+aprofundem os conteúdos de interesse, proporcionando um ganho na aprendizagem em
+relação à metodologia tradicional, independente da disciplina. A ATA representa um esforço
+assinalável para explicar como ocorre a incorporação das TDIC às metodologias ativas na
+Educação. Com efeito, esta tem a seu favor, como foi observado, um acervo considerável de
+possibilidades de aplicações para promover uma aprendizagem ativa, em flagrante contraste
+com a passividade ressaltada no modelo de ensino (dito) tradicional.
+Na medida em que vem satisfazer uma necessidade profundamente sentida, esta pesquisa
+discutiu sobre o modelo da ATA destacando os pilares que influenciam sua abordagem, ao
+tempo que identifica características e clarifica possibilidades na Educação. Assim,
+acreditamos que esta pesquisa pode evocar nos professores uma mudança em sua postura e
+que estes incorporem em sua prática pedagógica a ATA.
+Em relação ao levantamento e análise das publicações, esta pesquisa possibilitou identificar
+alguns trabalhos envolvendo a ATA no Ensino de Química, indicando caminhos para que
+professores a utilizem na construção do conhecimento de seus alunos. Embora os resultados
+do corpus latente descritos tenham sido utilizados para o Ensino de Química, este estudo pode
+servir de modelo para outras áreas que integram tecnologia na sala de aula ou para educadores
+que buscam incorporar a aprendizagem tecnológica ativa em sua prática docente. É pertinente
+destacar e compreender os resultados descritos por meio do corpus latente de conteúdo que
+podem propiciar resultados satisfatórios, não somente nas investigações das Ciências
+(Química), mas em todas as áreas do conhecimento.
+A partir do que foi apresentado nesta pesquisa, é possível compreender a importância da ATA
+no contexto educacional atual, ainda que muitos docentes se manifestam dizendo preferirem
+não modificarem sua práxis pedagógica. Assim, ao refletir sobre a ATA, consideramos
+importante que os professores promovam atividades que valorizem o aprendizado centrado
+nos alunos, além de proporem estratégias para sua aplicação. Nesse contexto, destaca-se
+também que devemos utilizar os ambientes baseados na ATA de modo que aprimorem os
+resultados no processo de ensino e aprendizagem, que forneçam oportunidades para os alunos
+se envolverem presencial e virtualmente e fomentem conexões uns com os outros. Ademais,
+observações e dados da pesquisa indicam que o uso das tecnologias pelos alunos possibilita
+um melhor desempenho dos mesmos em uma aprendizagem tecnológica ativa.
+Por fim, é importante reforçar que o modelo da aprendizagem tecnológica ativa não se
+contrapõe a outros modelos de aprendizagem, entretanto sua integração no processo de ensino
+e aprendizagem pode gerar bons resultados. Consideramos que o modelo proposto apresenta
+uma visão abrangente do uso concomitante das tecnologias digitais e das metodologias ativas
+na Educação. Investigações futuras e o desenvolvimento de estudos posteriores serão
+pertinentes para compreender e consequentemente inserir a ATA nos diversos contextos
+educacionais.
